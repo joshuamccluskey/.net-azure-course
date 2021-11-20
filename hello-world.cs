@@ -1,6 +1,6 @@
 ﻿//Name: Joshua McCluskey
 //Date: 11.17.2021
-//File Name: Program.cs
+//File Name: hello-world.cs
 //Purpose: This method is a HelloWorld app to print diffrent data types and variables to the consoles.
 
 using System;

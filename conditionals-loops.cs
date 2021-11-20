@@ -1,6 +1,6 @@
 ﻿//Name: Joshua McCluskey
 //Date: 11.20.2021
-//File Name: Program.cs
+//File Name: conditionals-loops.cs
 //Purpose: Utilizing different forms of conditional statements and loops
 
 using System;

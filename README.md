@@ -1,2 +1,2 @@
-# .net-azure-course
-C# .Net Azure Course  
+# csharp-azure-course
+C# .Net Azure Course projects

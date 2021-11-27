@@ -1,4 +1,9 @@
-﻿using System;
+﻿//Name: Joshua McCluskey
+//Date: 11.27.2021
+//File Name: method.cs
+//Purpose: This is to use methods and parameters in different ways  building a pyramid
+
+using System;
 
 namespace methods
 {
